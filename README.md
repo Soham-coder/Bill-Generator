@@ -7,7 +7,7 @@
 
 # Bill-Generator
 #### GUI to generate bills on shops.
-![Image](https://github.com/vinaysomawat/Bill-Generator/blob/master/image.png)
+![Image](https://github.com/Soham-coder/Bill-Generator/blob/main/image.png)
 
 # Instructions to run
 ```diff
