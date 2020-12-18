@@ -1,5 +1,6 @@
 # Problem
-![Image1] (https://github.com/Soham-coder/Bill-Generator/1.jpeg)
+![Image](https://github.com/Soham-coder/Bill-Generator/blob/master/shop.png)
+
 *Today, whenever customers purchase something, ask for a bill or cash-memo in order to further inquiry for product related issues*.
 *For local shops, It takes a lot of time to create an excel sheet and make a cash-memo/bill. So we came up with a solution where the shopkeeper just needs to enter the data and the bill will automatically be generated through the script*.
 *In this tutorial we learn, How to develop this kind of GUI to generate bills*.
