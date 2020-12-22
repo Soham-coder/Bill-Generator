@@ -1,3 +1,5 @@
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Soham-coder-Bill-Generator)
+
 # Problem
 ![Image](https://github.com/Soham-coder/Bill-Generator/blob/main/shop.png)
 
